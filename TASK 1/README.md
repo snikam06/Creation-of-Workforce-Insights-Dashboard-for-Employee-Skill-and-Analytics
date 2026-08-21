@@ -7,7 +7,7 @@ This task contains Python and SQL coding practice designed for fresher-level tec
 The Python file contains 20 coding interview questions covering:
 
 - Variables and Data Types
-- Strings
+- Strings 
 - Lists
 - Tuples
 - Sets
