@@ -19,6 +19,28 @@ The Python file contains 20 coding interview questions covering:
 - Exception Handling
 - Object-Oriented Programming (OOP)
 
-The Python solutions are written in Python 3 and can be executed directly in Google Colab.
+## SQL
+
+The SQL file contains practice queries covering the following concepts:
+
+- SELECT
+- WHERE
+- AND / OR
+- DISTINCT
+- ORDER BY
+- GROUP BY
+- Aggregate Functions
+- HAVING
+- JOINS
+- CASE Statements
+- UNION
+- String Functions
+
+These queries focus on practical SQL problem-solving and interview preparation.
+
+## Objective
+
+The objective of this task is to strengthen fundamental Python programming and SQL skills through practical coding questions and interview-oriented problems.
+
 
 
