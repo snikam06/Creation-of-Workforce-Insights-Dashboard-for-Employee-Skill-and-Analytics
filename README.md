@@ -190,20 +190,35 @@ npm start
 > TODO: adjust this tree to match your actual repository.
 
 ```
+
 .
-├── app/                    # Next.js App Router pages and API routes
-│   ├── (auth)/             # Login and registration
-│   ├── dashboard/          # Role-based dashboards and module pages
-│   └── api/health/         # Health-check endpoint
-├── components/             # Reusable UI components and charts
-├── store/                  # Zustand stores
-├── db/                     # Drizzle schema and database client
-├── lib/                    # Helpers (data parsing, KPI calculations)
-├── public/                 # Static assets
-├── agile-documentation/    # Sprint plans, backlog, task board, progress reports
-├── drizzle.config.ts       # Drizzle configuration
+├── src/
+│   ├── app/
+│   │   ├── (app)/
+│   │   │   ├── admin/
+│   │   │   ├── employee/
+│   │   │   ├── hr/
+│   │   │   ├── manager/
+│   │   │   ├── notifications/
+│   │   │   └── settings/
+│   │   ├── api/
+│   │   ├── login/
+│   │   ├── register/
+│   │   ├── globals.css
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   ├── components/
+│   ├── db/
+│   └── lib/
+├── .gitignore
+├── drizzle.config.json
+├── eslint.config.mjs
+├── next.config.ts
 ├── package.json
+├── postcss.config.mjs
+├── tsconfig.json
 └── README.md
+
 ```
 
 ## Available Scripts
