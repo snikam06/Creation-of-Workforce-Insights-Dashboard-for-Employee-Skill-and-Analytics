@@ -253,22 +253,11 @@ The full Agile artifacts are in the [`agile-documentation`](./agile-documentatio
 - [Task Board](./agile-documentation/04-task-board.md)
 - [Progress Reports](./agile-documentation/05-progress-reports.md)
 
-## Limitations
 
-- The current demo keeps application state in browser storage. PostgreSQL is configured but not yet the primary data store.
-- AI insights (attrition risk, forecasts, recommendations) are decision-support tools and are not validated on production data.
-- Payroll processing and mobile apps are out of scope for this release.
 
-## Team
 
-| Name | Role |
-|------|------|
-| TODO | TODO |
-| TODO | TODO |
 
-**Mentor:** TODO
+**Mentor:** Vivek Gautam
 **Program:** Infosys Springboard Internship, Batch 3
 
-## License
 
-TODO: add a license (for example MIT) or remove this section.
