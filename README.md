@@ -176,18 +176,10 @@ npm start
 4. Explore **Employees**, **Attendance**, **Leave**, **Performance**, **Reports**, **Workforce Analytics**, **Talent Intelligence** and **Workforce Planning** from the sidebar.
 5. Use the **Ask Workforce AI** button to open the Workforce Copilot.
 
-**Demo accounts:** TODO: add test credentials here, for example:
-
-| Role | Email | Password |
-|------|-------|----------|
-| Admin | TODO | TODO |
-| HR | TODO | TODO |
-| Manager | TODO | TODO |
-| Employee | TODO | TODO |
 
 ## Project Structure
 
-> TODO: adjust this tree to match your actual repository.
+
 
 ```
 
