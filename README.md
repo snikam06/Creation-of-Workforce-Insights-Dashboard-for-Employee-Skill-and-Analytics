@@ -23,8 +23,6 @@
 12. [Available Scripts](#available-scripts)
 13. [Deployment](#deployment)
 14. [Agile Documentation](#agile-documentation)
-15. [Limitations](#limitations)
-16. [Team](#team)
 
 ---
 
